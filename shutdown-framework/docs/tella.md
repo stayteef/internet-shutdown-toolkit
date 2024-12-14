@@ -1,7 +1,16 @@
 <!-- material/tags { scope: true } -->
+---
+title: Tella
+tags:
+  - macOS
+  - Linux
+  - Windows
+---
+
+
 # Tella
 
-tags as icons:
+tags:
   - macOS
   - Linux
 
