@@ -7,10 +7,9 @@ tags:
   - Windows
 ---
 
-
 # Tella
 
-tags:
+tags as icon:
   - macOS
   - Linux
 
@@ -22,17 +21,16 @@ second line of tags (kind of category of the tools??):
   - OR encryption blah 
 
 ## Short Intro
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus convallis ante, sit amet posuere quam ultricies rhoncus. Morbi commodo nisi et nisl lacinia, eget fermentum quam maximus. Vivamus non quam nec erat tincidunt mollis semper in justo. Aliquam erat volutpat. Nam mauris elit, euismod nec varius ut, efficitur vitae mi. Phasellus a ullamcorper libero. Vivamus viverra finibus dignissim.
-
-Nullam cursus volutpat metus at mattis. Nulla a consectetur felis, ut congue metus. Vivamus tincidunt pellentesque luctus. Pellentesque in justo sed dui fringilla vulputate. Mauris sit amet neque in eros porta pharetra. Phasellus eros leo, posuere vitae mi et, dictum elementum odio. Morbi sit amet dui a velit iaculis congue id eget diam. Ut nec sapien placerat, volutpat velit sit amet, pellentesque diam. Suspendisse a imperdiet eros. 
+ Tella is a camera and recorder app, that automatically encrypts your photos, videos, and audio recordings as soon as they are captured. It hides your files in the device: your files are inaccessible from the phone’s regular gallery or file explorer. You can only access them in the app. Suspendisse a imperdiet eros. 
 
 ## symptoms
+
+??? [Full shutdown](/internet-shutdown-toolkit/shutdown-framework/docs/shutdown-types.md#Types-of-Shutdown ){ .pg-red }
+
 ??? note "no DNS but XYZ"
     describe
     <details>
     <summary>how to diagnose</summary>
-
-
 
 </details>
 ??? note "home wifi works XYZ"
