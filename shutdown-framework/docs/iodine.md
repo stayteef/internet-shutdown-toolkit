@@ -14,11 +14,12 @@ second line of tags (kind of category of the tools??):
 ## Short Intro
 Iodine is a lightweight, open-source DNS tunneling tool that uses DNS queries to transmit data between devices. It works by exploiting the fact that DNS queries can be used to send small amounts of data over the internet without being detected.
 
-## symptoms
+## Symptoms
 DNS lookups are possible via "dig" or "nslookup" but other types of network protocols are restricted   
     describe
     <details>
     <summary>how to diagnose</summary>
+
 
 
 
